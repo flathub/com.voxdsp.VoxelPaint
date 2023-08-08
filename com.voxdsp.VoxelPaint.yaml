@@ -24,5 +24,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/mrbid/voxelpaint.git
-        commit: 762c91c4ebf9dd73bc8ca72d5d17f655db44986e
+        commit: 08f466465ea480349f12644bb7fb807cfb7e3ab8
 
